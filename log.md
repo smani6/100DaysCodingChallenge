@@ -18,6 +18,6 @@
 
 **Thoughts:** Initial application creation can be annoying sometimes when you start from a template, removing code and keeping the build working can take longer than it should.
 
-**Link to work:** [https://github.com/GrfxGuru/100-days-of-code][1]
+**Link to work:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
-[1]:	https://github.com/GrfxGuru/100-days-of-code
+[1]:	https://github.com/GrfxGuru/CodeNotesForiOS
