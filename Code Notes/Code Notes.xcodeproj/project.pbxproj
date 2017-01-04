@@ -15,6 +15,7 @@
 		D069F0751E1CAE91008C79E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D069F0731E1CAE91008C79E7 /* LaunchScreen.storyboard */; };
 		D069F0801E1CAE91008C79E7 /* Code_NotesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D069F07F1E1CAE91008C79E7 /* Code_NotesTests.swift */; };
 		D069F08B1E1CAE91008C79E7 /* Code_NotesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D069F08A1E1CAE91008C79E7 /* Code_NotesUITests.swift */; };
+		D069F0991E1CC416008C79E7 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = D069F0981E1CC416008C79E7 /* Note.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D069F0861E1CAE91008C79E7 /* Code NotesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Code NotesUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D069F08A1E1CAE91008C79E7 /* Code_NotesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Code_NotesUITests.swift; sourceTree = "<group>"; };
 		D069F08C1E1CAE91008C79E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D069F0981E1CC416008C79E7 /* Note.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Note.swift; path = ValueObjects/Note.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,9 +101,9 @@
 		D069F0671E1CAE91008C79E7 /* Code Notes */ = {
 			isa = PBXGroup;
 			children = (
+				D069F09B1E1CC43F008C79E7 /* ValueObjects */,
+				D069F09A1E1CC426008C79E7 /* Controllers */,
 				D069F0681E1CAE91008C79E7 /* AppDelegate.swift */,
-				D069F06A1E1CAE91008C79E7 /* MasterViewController.swift */,
-				D069F06C1E1CAE91008C79E7 /* DetailViewController.swift */,
 				D069F06E1E1CAE91008C79E7 /* Main.storyboard */,
 				D069F0711E1CAE91008C79E7 /* Assets.xcassets */,
 				D069F0731E1CAE91008C79E7 /* LaunchScreen.storyboard */,
@@ -126,6 +128,23 @@
 				D069F08C1E1CAE91008C79E7 /* Info.plist */,
 			);
 			path = "Code NotesUITests";
+			sourceTree = "<group>";
+		};
+		D069F09A1E1CC426008C79E7 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				D069F06A1E1CAE91008C79E7 /* MasterViewController.swift */,
+				D069F06C1E1CAE91008C79E7 /* DetailViewController.swift */,
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		D069F09B1E1CC43F008C79E7 /* ValueObjects */ = {
+			isa = PBXGroup;
+			children = (
+				D069F0981E1CC416008C79E7 /* Note.swift */,
+			);
+			name = ValueObjects;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -268,6 +287,7 @@
 				D069F06D1E1CAE91008C79E7 /* DetailViewController.swift in Sources */,
 				D069F06B1E1CAE91008C79E7 /* MasterViewController.swift in Sources */,
 				D069F0691E1CAE91008C79E7 /* AppDelegate.swift in Sources */,
+				D069F0991E1CC416008C79E7 /* Note.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
