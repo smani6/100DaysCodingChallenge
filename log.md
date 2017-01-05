@@ -20,4 +20,14 @@
 
 **Link to work:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 2: January 4th, 2017
+
+**Today's Progress**: Note List Prototype Cell
+I created the prototype cell for the master list, actually I created it twice since Xcode 8 screwed it up and deleted the cell contents twice due to bugs! I also set a hard return of note count so I could check the layout of multiple cells. I used stack views for the items within the cell to hopefully make it easier to change the layout as the program matures.
+
+**Thoughts:** Xcode 8 bugs mean’t I had to do somethings more than once today and also repair the errors it left behind. Stack views have been a great addition to iOS to enable some automatic handling of layout.
+
+**Link to work:** [https://github.com/GrfxGuru/CodeNotesForiOS][2]
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
+[2]:	https://github.com/GrfxGuru/CodeNotesForiOS
