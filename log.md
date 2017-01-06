@@ -29,5 +29,14 @@ I created the prototype cell for the master list, actually I created it twice si
 
 **Link to work:** [https://github.com/GrfxGuru/CodeNotesForiOS][2]
 
+### Day 3: January 5th, 2017
+
+**Today's Progress**: Start of screen layouts for the detail views including, view / Edit / Add and Deleting of a note.
+
+**Thoughts:** Not as much progress as I would of liked today due to external factors. The screens are far from complete, at this time they are more content holders than layout complete. There is no re-sizing or real design yet for any of the screens, but that will come once the basic shell of the app is in place.
+
+**Link to work:** [https://github.com/GrfxGuru/CodeNotesForiOS][3]
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
 [2]:	https://github.com/GrfxGuru/CodeNotesForiOS
+[3]:	https://github.com/GrfxGuru/CodeNotesForiOS
