@@ -37,6 +37,22 @@ I created the prototype cell for the master list, actually I created it twice si
 
 **Link to work:** [https://github.com/GrfxGuru/CodeNotesForiOS][3]
 
+### Day 4: January 6th, 2017
+
+**Today's Progress**: The Change log
+- Added empty screen to edit application settings.
+- Added button to access future settings.
+- Added a button to add a new note from the notes list.
+- Created a function that will eventually load the data from the file system when the application starts.
+- Added a temporary data structure to the loading function for testing purposes.
+
+**Thoughts:** I think the screens are getting close to needing a proper design and clean up. I also need to start creating the proper segues for passing data around and ensuring the correction navigation items remain, currently adding a note replaces the navigation in some instances on the details view.
+
+I have decided to post every seven days a more detailed overview of the weeks progression. I will be posting this both on Medium and my web site where I discuss Swift development. Links will be in this log when they are created.
+
+**Link to work:** [https://github.com/GrfxGuru/CodeNotesForiOS][4]
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
 [2]:	https://github.com/GrfxGuru/CodeNotesForiOS
 [3]:	https://github.com/GrfxGuru/CodeNotesForiOS
+[4]:	https://github.com/GrfxGuru/CodeNotesForiOS
