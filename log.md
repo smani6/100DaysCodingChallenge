@@ -55,4 +55,15 @@ I have decided to post every seven days a more detailed overview of the weeks pr
 **Thoughts:** 
 I need to debug the conversation and display of the date object for each note list cell. For personal reasons I did not get as much done today as I would of liked.
 
+### Day 6: January 8th, 2017
+
+**Today's Progress**: The Change log
+- Date formatter function now works with a month/day/year format. Previously it was configured for an hour/minute/second format that I had used on another project.
+- Note object creation refactored to a function that takes arguments.
+- Added constraints for the master list cell.
+- Started work on the constraints for the viewing of a note.
+
+**Thoughts:** 
+Anyone that has dealt with constraints in Xcode knows the pain of trying to get them right, so annoying to work with.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
