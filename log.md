@@ -66,4 +66,17 @@ I need to debug the conversation and display of the date object for each note li
 **Thoughts:** 
 Anyone that has dealt with constraints in Xcode knows the pain of trying to get them right, so annoying to work with.
 
+### Day 7: January 9th, 2017
+
+**Today's Progress**: The Change log
+- Fixed the layout of the view note detail screen for all device rotations.
+- Changed view note screen text fields to labels for display only.
+- Updated segue for displaying a note.
+- When selecting from the note list, it will now display the details.
+
+**Thoughts:** 
+Some times, in fact for me most times, the best way to deal with constraint problems is to remove them all and start again. Whilst Xcode storyboards go a long way to try and help you solve layout issues, there are times all it does is create problems.
+
+I had more trouble than I expected with the sending of the data across the segue when selecting a note from the list and displaying it. I have blogged and used the technique many times, but there are always the little gotcha’s. In this case I had to wrap the detail screen in a navigation controller to get it working properly, this was an oversight on my part and a lesson I will not soon forget.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
