@@ -79,4 +79,12 @@ Some times, in fact for me most times, the best way to deal with constraint prob
 
 I had more trouble than I expected with the sending of the data across the segue when selecting a note from the list and displaying it. I have blogged and used the technique many times, but there are always the little gotcha’s. In this case I had to wrap the detail screen in a navigation controller to get it working properly, this was an oversight on my part and a lesson I will not soon forget.
 
+### Day 8: January 10th, 2017
+
+**Today's Progress**: The Change log
+- Spent time today looking at a few storage options including SQLLite, Plists, CoreData, and a few more projects on Github. This will aid in deciding on the data store I intend to use.
+
+**Thoughts:** 
+- No clear decision yet on the data store. I do feel CoreData will be overkill and take a lot of implementation.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
