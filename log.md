@@ -89,4 +89,13 @@ I had more trouble than I expected with the sending of the data across the segue
 **Thoughts:** 
 - No clear decision yet on the data store. I do feel CoreData will be overkill and take a lot of implementation.
 
+### Day 9: January 11th, 2017
+
+**Today's Progress**: The Change log
+- Added the ‘add’ button to the new note screen and updated constraints.
+- When creating a new note it is now added to the data source.
+
+**Thoughts:** 
+Still working to refresh the master list after adding a new note, still need to return to the first detail screen after adding a new note.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
