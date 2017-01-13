@@ -98,4 +98,12 @@ I had more trouble than I expected with the sending of the data across the segue
 **Thoughts:** 
 Still working to refresh the master list after adding a new note, still need to return to the first detail screen after adding a new note.
 
+### Day 10: January 11th, 2017
+
+**Today's Progress**: The Change log
+- No file changes to the project today.
+
+**Thoughts:** 
+Today was pure trial and error regarding navigation techniques between views to find a method that gives me what I need and is resource friendly, hopefully the results will make it in to the app over the next few days.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
