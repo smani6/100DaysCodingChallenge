@@ -98,12 +98,21 @@ I had more trouble than I expected with the sending of the data across the segue
 **Thoughts:** 
 Still working to refresh the master list after adding a new note, still need to return to the first detail screen after adding a new note.
 
-### Day 10: January 11th, 2017
+### Day 10: January 12th, 2017
 
 **Today's Progress**: The Change log
 - No file changes to the project today.
 
 **Thoughts:** 
 Today was pure trial and error regarding navigation techniques between views to find a method that gives me what I need and is resource friendly, hopefully the results will make it in to the app over the next few days.
+
+### Day 11: January 13th, 2017
+
+**Today's Progress**: The Change log
+- Refactored the adding of a new note to use the edit view.
+- Clicking the + on the list view now creates a new note on the list and selects it, this is then sent to the edit view.
+
+**Thoughts:** 
+Sometimes, when something appears to be causing you a lot of problems, this is a sign that you are approaching the solution the wrong way and need to think again. This was the case with adding a new note, after some thought and trial and error, I realized that I should create a blank note and then select and edit it rather than try to pass data and navigation around.
 
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
