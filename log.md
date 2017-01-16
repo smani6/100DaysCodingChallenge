@@ -115,4 +115,19 @@ Today was pure trial and error regarding navigation techniques between views to 
 **Thoughts:** 
 Sometimes, when something appears to be causing you a lot of problems, this is a sign that you are approaching the solution the wrong way and need to think again. This was the case with adding a new note, after some thought and trial and error, I realized that I should create a blank note and then select and edit it rather than try to pass data and navigation around.
 
+### Day 12: January 14th, 2017
+
+**Today's Progress**: The Change log
+- Due to system issues I did not get to code today, but everything is ready to continue tomorrow.
+
+**Thoughts:** 
+
+### Day 13: January 15th, 2017
+
+**Today's Progress**: The Change log
+- Refactored segue code yet again for the adding of a note.
+
+**Thoughts:** 
+I confess to being tired of trying to solve my segue \<\> viewController issues. I think I am going to have to make a test project to do nothing but study UINavigationController and segue code.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
