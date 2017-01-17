@@ -130,4 +130,12 @@ Sometimes, when something appears to be causing you a lot of problems, this is a
 **Thoughts:** 
 I confess to being tired of trying to solve my segue \<\> viewController issues. I think I am going to have to make a test project to do nothing but study UINavigationController and segue code.
 
+### Day 14: January 16th, 2017
+
+**Today's Progress**: The Change log
+- Resolved my segue navigation issues with editing / adding a note.
+
+**Thoughts:** 
+Finally resolved my navigation issues with editing a new note, after clearing out the mess created, things now work as expected. I am still working on updating the data source and refreshing the detail list.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
