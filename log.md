@@ -138,4 +138,14 @@ I confess to being tired of trying to solve my segue \<\> viewController issues.
 **Thoughts:** 
 Finally resolved my navigation issues with editing a new note, after clearing out the mess created, things now work as expected. I am still working on updating the data source and refreshing the detail list.
 
+### Day 15: January 17th, 2017
+
+**Today's Progress**: The Change log
+- When cancelling a new note, the new note is removed from the master list.
+- When saving a new note, the note is now stored in the array and the master list is updated.
+- When going to the add / edit note screen, the note name is now selected by default ready to just start typing.
+
+**Thoughts:** 
+Starting work on the data handling proper, I have left test data in for now until persistent storage is implemented. An interesting way to throw data around and access it across the application is to use a singleton. I implemented it in the application delegate and create a reference in each of the views that need to work with the data.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
