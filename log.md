@@ -148,4 +148,13 @@ Finally resolved my navigation issues with editing a new note, after clearing ou
 **Thoughts:** 
 Starting work on the data handling proper, I have left test data in for now until persistent storage is implemented. An interesting way to throw data around and access it across the application is to use a singleton. I implemented it in the application delegate and create a reference in each of the views that need to work with the data.
 
+### Day 16: January 18th, 2017
+
+**Today's Progress**: The Change log
+- You can now delete a note when viewing it.
+- Alert presentation of choice when deleting a note, you can either cancel or delete.
+
+**Thoughts:** 
+Interesting way to work when deleting something and showing an alert dialog. I first show the dialog and if you choose to delete, I remove the record, update the master list display, and then perform a segue that I attached to the view rather than a control on the screen.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
