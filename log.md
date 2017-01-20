@@ -157,4 +157,15 @@ Starting work on the data handling proper, I have left test data in for now unti
 **Thoughts:** 
 Interesting way to work when deleting something and showing an alert dialog. I first show the dialog and if you choose to delete, I remove the record, update the master list display, and then perform a segue that I attached to the view rather than a control on the screen.
 
+### Day 17: January 19th, 2017
+
+**Today's Progress**: The Change log
+- Enabled the edit button when viewing a note to switch to edit mode.
+- Moved the application settings button to the master list.
+- Added the option to either show or not show the note deletion confirmation alert, code still needs to be written to activate it.
+- Moved the settings view into a navigation controller for consistency.
+
+**Thoughts:** 
+I have spent most of my career working on user interfaces, and as I start to think about the designs and layout for this application, I am reminded again of all the little things you have to take in to consideration like deselecting something under a certain condition. For example, deselect any note that might be selected on the master list when going to the settings screen. Often these can be some of the most timing consuming things to deal with.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
