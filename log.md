@@ -168,4 +168,13 @@ Interesting way to work when deleting something and showing an alert dialog. I f
 **Thoughts:** 
 I have spent most of my career working on user interfaces, and as I start to think about the designs and layout for this application, I am reminded again of all the little things you have to take in to consideration like deselecting something under a certain condition. For example, deselect any note that might be selected on the master list when going to the settings screen. Often these can be some of the most timing consuming things to deal with.
 
+### Day 18: January 20th, 2017
+
+**Today's Progress**: The Change log
+- The user can no longer edit text whilst on the view note screen.
+- Working with Sketch to design some better looking layouts now the functionality is coming together.
+
+**Thoughts:** 
+Sketch continues to be my tool for putting ideas together fast when it comes to layouts. I plan to design in the app and export to Xcode.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
