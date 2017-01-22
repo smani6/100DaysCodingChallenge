@@ -177,4 +177,13 @@ I have spent most of my career working on user interfaces, and as I start to thi
 **Thoughts:** 
 Sketch continues to be my tool for putting ideas together fast when it comes to layouts. I plan to design in the app and export to Xcode.
 
+### Day 19: January 21st, 2017
+
+**Today's Progress**: The Change log
+- The application settings are now operational and stored.
+- The confirmation dialog for deleting a note can now be turned on or off in the user settings.
+
+**Thoughts:** 
+A good day, the application settings are now working and ready for any other options I might put in there. I am considering a dark/light interface setting as that seems popular these days.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
