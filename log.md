@@ -186,4 +186,16 @@ Sketch continues to be my tool for putting ideas together fast when it comes to 
 **Thoughts:** 
 A good day, the application settings are now working and ready for any other options I might put in there. I am considering a dark/light interface setting as that seems popular these days.
 
+### Day 20: January 22nd, 2017
+
+**Today's Progress**: The Change log
+- Added application information to the settings screen.
+- Changed the language field on the add / edit screen to use a UIPickerView instead. This is a work in progress but there are several reasons for this choice.
+	- Consistent spelling.
+	- Quicker entry method.
+	- Will provide a data source for other users including filtering and searching.
+
+**Thoughts:** 
+I think the switch to using a picker for the language field will be far better in the long run as I bring other features online. There will also be a way to manage the language list including editing, adding, and deletion. This also serves as a great excuse to work with delegation in Swift.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
