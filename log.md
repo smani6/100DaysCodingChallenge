@@ -202,7 +202,8 @@ I think the switch to using a picker for the language field will be far better i
 
 **Today's Progress**: The Change log
 - Played with CoreData some today as I think this will be my data source for the application.
-- 
+- Worked more on some Sketch designs.
+	 
 **Thoughts:** 
 CoreData has a reputation for being difficult, but I think if you approach it correctly, it can yield good results. I might change my mind later in the project, but for now this is the winner.
 
