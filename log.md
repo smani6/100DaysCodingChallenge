@@ -198,4 +198,12 @@ A good day, the application settings are now working and ready for any other opt
 **Thoughts:** 
 I think the switch to using a picker for the language field will be far better in the long run as I bring other features online. There will also be a way to manage the language list including editing, adding, and deletion. This also serves as a great excuse to work with delegation in Swift.
 
+### Day 21: January 23rd, 2017
+
+**Today's Progress**: The Change log
+- Played with CoreData some today as I think this will be my data source for the application.
+- 
+**Thoughts:** 
+CoreData has a reputation for being difficult, but I think if you approach it correctly, it can yield good results. I might change my mind later in the project, but for now this is the winner.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
