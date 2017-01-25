@@ -203,8 +203,18 @@ I think the switch to using a picker for the language field will be far better i
 **Today's Progress**: The Change log
 - Played with CoreData some today as I think this will be my data source for the application.
 - Worked more on some Sketch designs.
-	 
 **Thoughts:** 
 CoreData has a reputation for being difficult, but I think if you approach it correctly, it can yield good results. I might change my mind later in the project, but for now this is the winner.
 
+### Day 22: January 24th, 2017
+
+**Today's Progress**: The Change log
+- Fixed some display issues for the master list when the device is in portrait mode.
+- When the application returns from the background it now corrects the interface display for the master list.
+- Designed and added an icon for the application. Used the excellent IconSlate tool. [App Store Link][2]
+
+**Thoughts:** 
+Always check both portrait and landscape modes for user interface problems. I had not noticed until today that the master list was not displaying automatically if the application started with the iPad in portrait mode.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
+[2]:	https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12
