@@ -216,5 +216,14 @@ CoreData has a reputation for being difficult, but I think if you approach it co
 **Thoughts:** 
 Always check both portrait and landscape modes for user interface problems. I had not noticed until today that the master list was not displaying automatically if the application started with the iPad in portrait mode.
 
+### Day 23: January 25th, 2017
+
+**Today's Progress**: The Change log
+- Added an icon to the settings page.
+- Continued reading into CoreData.
+
+**Thoughts:** 
+Not a lot of actual project code today, but a lot of reading on CoreData in preparation.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
 [2]:	https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12
