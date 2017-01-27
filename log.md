@@ -225,5 +225,13 @@ Always check both portrait and landscape modes for user interface problems. I ha
 **Thoughts:** 
 Not a lot of actual project code today, but a lot of reading on CoreData in preparation.
 
+### Day 24: January 26th, 2017
+
+**Today's Progress**: The Change log
+- Continued reading into CoreData.
+
+**Thoughts:** 
+More CoreData exploration and model planning.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
 [2]:	https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12
