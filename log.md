@@ -237,6 +237,7 @@ More CoreData exploration and model planning.
 
 **Today's Progress**: The Change log
 - Removed CoreData branch, planning to start again with this rather than patch into existing data source.
+- Added a button to reset the database (remove all notes).
 
 **Thoughts:** 
 While researching CoreData, I have come across many different ways to use it. At this time I am not sure which I agree with the most, therefore I am trying a few different ways of using it before settling on one method.
