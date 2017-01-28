@@ -233,5 +233,13 @@ Not a lot of actual project code today, but a lot of reading on CoreData in prep
 **Thoughts:** 
 More CoreData exploration and model planning.
 
+### Day 25: January 27th, 2017
+
+**Today's Progress**: The Change log
+- Removed CoreData branch, planning to start again with this rather than patch into existing data source.
+
+**Thoughts:** 
+While researching CoreData, I have come across many different ways to use it. At this time I am not sure which I agree with the most, therefore I am trying a few different ways of using it before settling on one method.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
 [2]:	https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12
