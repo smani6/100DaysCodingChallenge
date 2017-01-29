@@ -242,5 +242,19 @@ More CoreData exploration and model planning.
 **Thoughts:** 
 While researching CoreData, I have come across many different ways to use it. At this time I am not sure which I agree with the most, therefore I am trying a few different ways of using it before settling on one method.
 
+### Day 26: January 28th, 2017
+
+**Today's Progress**: The Change log
+- **It’s all about the Data**
+	- CoreData now used for persistent storage.
+	- Adding a new note refactored to CoreData.
+	- Resetting the database refactored to CoreData.
+	- Viewing a note now uses CoreData as the data source.
+	- Deleting a note now removes from CoreData data source.
+	- Editing a note now works with CoreData data source.
+
+**Thoughts:** 
+Yes CoreData can be a real pain, but once you understand how it wants you to work it really is not that bad. Mind you, I’m not using sync or anything fancy at this time.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
 [2]:	https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12
