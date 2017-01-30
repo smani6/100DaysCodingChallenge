@@ -256,5 +256,17 @@ While researching CoreData, I have come across many different ways to use it. At
 **Thoughts:** 
 Yes CoreData can be a real pain, but once you understand how it wants you to work it really is not that bad. Mind you, I’m not using sync or anything fancy at this time.
 
+### Day 27: January 29th, 2017
+
+**Today's Progress**: The Change log
+- **It’s all about the Data**
+	- Fixed the cancel button on a new note not removing it from the data.
+	- Fixed the edit button when viewing a note not displaying the correct data on the edit screen.
+	- Adding a new note now sends the right index for display to the add/edit note view.
+	- Fixed an issue where adding/editing a note and saving it would create a new copy rather than update the existing.
+
+**Thoughts:** 
+Next time I create an application that I intend to use CoreData for storage, I will do so from the beginning rather than factor it in later. I feel it took more effort than it should, but that’s the point of learning right?
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
 [2]:	https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12
