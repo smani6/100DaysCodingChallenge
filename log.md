@@ -268,5 +268,14 @@ Yes CoreData can be a real pain, but once you understand how it wants you to wor
 **Thoughts:** 
 Next time I create an application that I intend to use CoreData for storage, I will do so from the beginning rather than factor it in later. I feel it took more effort than it should, but that’s the point of learning right?
 
+### Day 28: January 30th, 2017
+
+**Today's Progress**: The Change log
+- **It’s all about the Data**
+	- Trying some ideas for language list management.
+
+**Thoughts:** 
+Played with a few ideas for the language management today. Have not decided how the interface will work yet, but expect to make a decision tomorrow for at least a version 1.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
 [2]:	https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12
