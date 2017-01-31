@@ -273,6 +273,8 @@ Next time I create an application that I intend to use CoreData for storage, I w
 **Today's Progress**: The Change log
 - **It’s all about the Data**
 	- Trying some ideas for language list management.
+	- Added button to reset language list using CoreData. Not yet enabled in UI picker.
+	- Added Language List entity to CoreData.
 
 **Thoughts:** 
 Played with a few ideas for the language management today. Have not decided how the interface will work yet, but expect to make a decision tomorrow for at least a version 1.
