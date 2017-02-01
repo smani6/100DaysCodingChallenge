@@ -279,5 +279,14 @@ Next time I create an application that I intend to use CoreData for storage, I w
 **Thoughts:** 
 Played with a few ideas for the language management today. Have not decided how the interface will work yet, but expect to make a decision tomorrow for at least a version 1.
 
+### Day 29: January 31st, 2017
+
+**Today's Progress**: The Change log
+- **It’s all about the Data**
+	- Changed the navigation to a darker look.
+
+**Thoughts:** 
+Starting to change the look as I clean the app interface up. I have decided to go with a slightly darker look, since most of the time I find developers working in a low light environment.
+
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
 [2]:	https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12
