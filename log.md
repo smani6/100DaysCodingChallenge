@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 30: February 1st, 2017
+
+**Today's Progress**: The Change log
+- Coverted the master list cells to a darker look.
+
+**Thoughts:** 
+Continued to convert to the darker theme look today. Not too much progress on anything else due to time constraints.
+
 ### Day 29: January 31st, 2017
 
 **Today's Progress**: The Change log
