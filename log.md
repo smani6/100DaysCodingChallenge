@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 31: February 2nd, 2017
+
+**Today's Progress**: The Change log
+- Worked on a separate project today that required some HTML, CSS, and php work.
+- Fixed some portrait display bugs.
+
+**Thoughts:** 
+
 ### Day 30: February 1st, 2017
 
 **Today's Progress**: The Change log
