@@ -2,6 +2,13 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 32: February 3rd, 2017
+
+**Today's Progress**: The Change log
+- Converted the language data source for adding / editing a note to use the CoreData Entity.
+
+**Thoughts:** 
+
 ### Day 31: February 2nd, 2017
 
 **Today's Progress**: The Change log
