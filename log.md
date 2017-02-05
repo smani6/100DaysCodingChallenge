@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 33: February 4th, 2017
+
+**Today's Progress**: The Change log
+- You can now clear the language list and reset to a default containing 20 popular languages.
+	 
+**Thoughts:** 
+I am glad to feel this is shaping into a working application as I start to add some design and more useful features.
+
 ### Day 32: February 3rd, 2017
 
 **Today's Progress**: The Change log
