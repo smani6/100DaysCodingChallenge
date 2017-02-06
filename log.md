@@ -2,11 +2,18 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 34: February 5th, 2017
+
+**Today's Progress**: The Change log
+- Started work on the language list management controls.
+
+**Thoughts:** 
+I have not yet decided on how the language list management screen is going to look, but for now I am certain of the controls it needs and will get them functional. It might not be the greatest looking screen, but it will sure keep the application functional and that is my goal right now.
+
 ### Day 33: February 4th, 2017
 
 **Today's Progress**: The Change log
 - You can now clear the language list and reset to a default containing 20 popular languages.
-	 
 **Thoughts:** 
 I am glad to feel this is shaping into a working application as I start to add some design and more useful features.
 
