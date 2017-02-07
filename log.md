@@ -2,6 +2,17 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 35: February 6th, 2017
+
+**Today's Progress**: The Change log
+- Added segue for the language management screen.
+- Moved the language list reset and clear buttons to the language management screen.
+- Fixed a couple of navigation issues.
+
+**Thoughts:** 
+The list management screen turned out to be more awkward to layout than I had envisioned. This is a difficult but important screen. Here the user will manage everything language related, at the moment the controls are limited but I plan to expand these over time, so I am trying to take that in to account as I work on the version 1 of the layout.
+
+
 ### Day 34: February 5th, 2017
 
 **Today's Progress**: The Change log
