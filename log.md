@@ -2,6 +2,15 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 36: February 7th, 2017
+
+**Today's Progress**: The Change log
+- Wired up the language list on the management screen.
+
+**Thoughts:** 
+Delegation fun with Swift today, if you are interested in Swift, today's changes are a great way to learn how to add delegation for a table view to a UIViewController.
+
+
 ### Day 35: February 6th, 2017
 
 **Today's Progress**: The Change log
