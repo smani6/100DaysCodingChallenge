@@ -2,6 +2,16 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 37: February 8th, 2017
+
+**Today's Progress**: The Change log
+- Added a screenshot to the repository.
+- Updated the readme file.
+- Researched filtering CoreData.
+
+**Thoughts:** 
+A little preparation today for thinking through a search system in the application. Experimented but not committed to the repository yet.
+
 ### Day 36: February 7th, 2017
 
 **Today's Progress**: The Change log
