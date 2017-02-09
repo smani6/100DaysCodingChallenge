@@ -12,6 +12,8 @@
 **Thoughts:** 
 A little preparation today for thinking through a search system in the application. Experimented but not committed to the repository yet.
 
+Also worked in a web page for Github and added a screenshot to the code repository.
+
 ### Day 36: February 7th, 2017
 
 **Today's Progress**: The Change log
