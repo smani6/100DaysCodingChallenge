@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 38: February 9th, 2017
+
+**Today's Progress**: The Change log
+- Added a border to the adding / editing note content field.
+- Added a couple of TODO markers.
+
+**Thoughts:** 
+
 ### Day 37: February 8th, 2017
 
 **Today's Progress**: The Change log
