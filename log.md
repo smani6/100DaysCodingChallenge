@@ -7,3 +7,7 @@
 ### Day 2 : Feb 11, 2017
 
 ** Today's Progress ** : Started with bootstrap completed till responsively style radio buttons
+
+### Day 3 : Feb 12, 2017
+
+** Today's Progress ** : Completed Bootstrap , Jquery excercises, Started with Tribute Page Front End task
