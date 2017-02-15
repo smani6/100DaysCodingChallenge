@@ -11,3 +11,7 @@
 ### Day 3 : Feb 12, 2017
 
 ** Today's Progress ** : Completed Bootstrap , Jquery excercises, Started with Tribute Page Front End task
+
+### Day 4: Feb 15, 2017
+
+** Today's Progress ** : Created simple portfolio page
