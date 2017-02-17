@@ -15,3 +15,7 @@
 ### Day 4: Feb 15, 2017
 
 ** Today's Progress ** : Created simple portfolio page
+
+### Day 5 : Feb 17, 2017
+
+** Today's Progress ** : Started with Javascript and completed few exercies
