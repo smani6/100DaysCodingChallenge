@@ -19,3 +19,7 @@
 ### Day 5 : Feb 17, 2017
 
 ** Today's Progress ** : Started with Javascript and completed few exercies
+
+** DAy 6 : Feb 19, 2017
+
+** Today's Progress ** : Completed few javascript exercies - started learning css courses in treehouse
