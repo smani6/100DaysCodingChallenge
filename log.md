@@ -18,8 +18,12 @@
 
 ### Day 5 : Feb 17, 2017
 
-** Today's Progress ** : Started with Javascript and completed few exercies
+** Today's Progress ** : Started with Javascript and completed few exercises
 
-** DAy 6 : Feb 19, 2017
+** Day 6 : Feb 19, 2017
 
-** Today's Progress ** : Completed few javascript exercies - started learning css courses in treehouse
+** Today's Progress ** : Completed few javascript exercises - started learning css courses in treehouse
+
+** Day 21 : Feb 21, 2017
+
+** Today's Progress ** : Completed javascript exercises till golf exercise
