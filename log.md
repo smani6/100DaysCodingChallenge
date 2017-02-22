@@ -24,6 +24,10 @@
 
 ** Today's Progress ** : Completed few javascript exercises - started learning css courses in treehouse
 
-** Day 21 : Feb 21, 2017
+** Day 7 : Feb 21, 2017
 
 ** Today's Progress ** : Completed javascript exercises till golf exercise
+
+** Day 8 : Feb 22, 2017
+
+** Today's Progress ** : Completed javascript exercises till changing switch to object dict lookup
